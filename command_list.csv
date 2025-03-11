@@ -1,0 +1,61 @@
+    1  help ls
+    2  help
+    3  help dir
+    4  cd
+    5  cd Git
+    6  cd Git1
+    7  cd
+    8  cd test
+    9  clear
+   10  cd /c/Git1
+   11  c && rm ~/.bash_history
+   12  dir
+   13  cd/c
+   14  cd/c/windows
+   15  dir
+   16  git config --global user.name "Yurii-Kova"
+   17  git config --global user.email "yrchiktop@gmail.com"
+   18  git config --global --list
+   19  bash_history
+   20  clin
+   21  clear
+   22  git clone https://github.com/Yurii-kova/HW_10.git
+   23  cd HW_10/
+   24  TOUCH text_ignore.txt
+   25  git status
+   26  git add text_ignore.txt
+   27  git status
+   28  nano text_ignore.txt
+   29* nano 
+
+   30  git status
+   31  git add
+   32  commit -m "New file text_ignore"
+   33  git commit -m "New file text_ignore"
+   34  git add main_test.txt
+   35  TOUCH main_test.txt
+   36  git add
+   37  git add .
+   38  git status
+   39  git commit -m "New file main"
+   40  git branch
+   41  git checkout -b develop
+   42  git branch
+   43  TOUCH develop_test.txt
+   44  git add .
+   45  git commit -m "New branch"
+   46  nano develop_test.txt
+   47  git status
+   48  git add develop_test.txt
+   49  git status
+   50  git commit -m "Text in file"
+   51  git checkout main
+   52  git branch
+   53  git merge main
+   54  git branch
+   55  git status
+   56  git merge develop
+   57  git log
+   58  git commit -m "togeze"
+   59  command_list.csv
+   60  history > command_list.csv
